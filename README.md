@@ -13,6 +13,7 @@
 
 --Clone repository to your desired local directory
 <br>--**If you are on a windows machine:**</br> run cmd and type the following: *C:\Path\to\Python\Interpreter.exe* *x:\Path\to\cloned\repository\*unfollowerbot.py  --username *Username* --password *password* --unfollow_option *unf* -d *5* -n *2*
+<br>
 --**On a UNIX machine, open terminal and navigate to directory where you cloned the repository and type:**<br> python3.*x* --username *Username* --password *password* --unfollow_option *unf* -d *5* -n *2*</br>
 
 
